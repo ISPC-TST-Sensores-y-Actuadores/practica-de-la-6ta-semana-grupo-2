@@ -1,2 +1,8 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8877951&assignment_repo_type=AssignmentRepo)
+# Grupo 2 - Sensores y Actuadores - 2022
+### Integrantes: :heavy_check_mark:
+•	 Andres Montaño.
+
+•  Alfredo Palacios.
+
+•  Rodolfo Paz.
 ![image](https://user-images.githubusercontent.com/84986194/195123078-b47ebb48-c5b9-4082-91b9-882c58a724b6.png)
